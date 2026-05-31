@@ -2,7 +2,7 @@
 
 > *"Someone has to keep trying — even when the first attempt teaches you exactly how hard it is."*
 
-I'm a final-year Software Engineering student from **Bahawalpur, Pakistan** — but my focus has never been just code. I build things that solve real problems for real people, write about the gaps in our education system, and I'm currently applying for the **Erasmus Mundus Scholarship** to study in Germany.
+I'm a final-year Software Engineering student from **Bahawalpur, Pakistan** — but my focus has never been just code. I build things that solve real problems, write about gaps in our education system, and I'm applying for the **Erasmus Mundus Scholarship** to study in Germany 🇩🇪
 
 ---
 
@@ -11,15 +11,15 @@ I'm a final-year Software Engineering student from **Bahawalpur, Pakistan** — 
 | Project | What It Does | Live |
 |---|---|---|
 | 🌍 **EduBridge** | Complete guide for Pakistani students to access global scholarships | [Visit →](https://noorulhuda-swe.github.io/edubridge) |
-| 💼 **StartSmart PK** | Business starter modules for Pakistani students — freelancing, AI, e-commerce | [Visit →](https://noorulhuda-swe.github.io/startsmart-pk) |
+| 💼 **StartSmart PK** | Business starter modules — freelancing, AI, e-commerce for Pakistani students | [Visit →](https://noorulhuda-swe.github.io/startsmart-pk) |
 | 🤖 **ScholarIntell** | AI-powered scholarship recommendation system | [Repo →](https://github.com/noorulhuda-swe/ScholarIntell) |
-| 🎮 **Python Quiz Game** | Interactive Python quiz game built and deployed | [Play →](https://noorulhuda-swe.github.io/python-quiz-game.github.io) |
+| 🎮 **Python Quiz Game** | Interactive Python quiz game built and deployed | [Repo →](https://github.com/noorulhuda-swe/python-quiz-game) |
 
 ---
 
 ## ✍️ I Also Write
 
-I write on **Medium** about the Pakistani student experience — education systems, English barriers, scholarship access and what it actually takes to build something from nothing.
+I write on **Medium** about the Pakistani student experience — education systems, English barriers, scholarship access and building from nothing.
 
 - 📄 [I Spent My Entire Summer Building Something Nobody Wanted](https://medium.com/@noorullhuda67/i-spent-my-entire-summer-building-something-nobody-wanted-3272af528874)
 - 📄 [Nobody Told Us](https://medium.com/@noorullhuda67/nobody-told-us-a264430efe11)
@@ -30,10 +30,10 @@ I write on **Medium** about the Pakistani student experience — education syste
 ## 🌱 About Me
 
 - 🎓 Final year **Software Engineering** student — Bahawalpur, Pakistan
-- 🗣️ **IELTS certified** — ran free English communication classes for university students for a full semester
-- 🌍 Applying for **Erasmus Mundus & DAAD** scholarships — destination: Germany 🇩🇪
-- 💡 My real skills: **communication, leadership, problem identification, building from scratch**
-- ✍️ Writing about things Pakistani students deserve to know but nobody tells them
+- 🗣️ **IELTS certified** — ran free English communication classes for a full semester
+- 🌍 Applying for **Erasmus Mundus & DAAD** — destination: Germany 🇩🇪
+- 💡 Real strengths: **communication, leadership, problem-solving, building from scratch**
+- ✍️ Writing about what Pakistani students deserve to know but nobody tells them
 - 🔨 Building tools that close the gap between Pakistani students and global opportunity
 
 ---
@@ -51,19 +51,45 @@ I write on **Medium** about the Pakistani student experience — education syste
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Activity
 
-![Noor-Ul-Huda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorulhuda-swe&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff6b2b&icon_color=ff6b2b)
+![Profile Views](https://komarev.com/ghpvc/?username=noorulhuda-swe&color=ff6b2b&style=flat&label=Profile+Views)
+![Repos](https://img.shields.io/badge/Public%20Repos-6-ff6b2b?style=flat&logo=github&logoColor=white)
+![Articles](https://img.shields.io/badge/Medium%20Articles-3-12100E?style=flat&logo=medium&logoColor=white)
+![IELTS](https://img.shields.io/badge/IELTS-Certified-00897B?style=flat)
+![Erasmus](https://img.shields.io/badge/Erasmus-Applicant%202025-003087?style=flat)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorulhuda-swe&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff6b2b)
+---
+
+## 🌍 Live Projects
+
+<a href="https://noorulhuda-swe.github.io/edubridge">
+  <img src="https://img.shields.io/badge/🌍%20EduBridge-Live%20Website-1a4a3a?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://noorulhuda-swe.github.io/startsmart-pk">
+  <img src="https://img.shields.io/badge/💼%20StartSmart%20PK-Live%20Website-ff6b2b?style=for-the-badge" />
+</a>
 
 ---
 
 ## 📬 Let's Connect
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@noorullhuda67)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/noorulhuda-swe)
-[![EduBridge](https://img.shields.io/badge/EduBridge-ff6b2b?style=flat&logoColor=white)](https://noorulhuda-swe.github.io/edubridge)
+<a href="https://medium.com/@noorullhuda67">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/noorulhuda-swe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://noorulhuda-swe.github.io/edubridge">
+  <img src="https://img.shields.io/badge/EduBridge-Visit%20Site-1a4a3a?style=flat" />
+</a>
+&nbsp;
+<a href="https://noorulhuda-swe.github.io/startsmart-pk">
+  <img src="https://img.shields.io/badge/StartSmart%20PK-Visit%20Site-ff6b2b?style=flat" />
+</a>
 
 ---
 
