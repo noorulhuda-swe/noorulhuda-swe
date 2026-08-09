@@ -1,96 +1,66 @@
-# Hi, I'm Noor-Ul-Huda 👋🇵🇰
+# Hi, I'm Noor-Ul-Huda 👋PK
 
-> *"Someone has to keep trying — even when the first attempt teaches you exactly how hard it is."*
+> "Someone has to keep trying — even when the first attempt teaches you exactly how hard it is."
 
-I'm a final-year Software Engineering student from **Bahawalpur, Pakistan** — but my focus has never been just code. I build things that solve real problems, write about gaps in our education system, and I'm applying for the **Erasmus Mundus Scholarship** to study in Germany 🇩🇪
+I'm a Software Engineering graduate from **The Islamia University of Bahawalpur**, originally from **Sahiwal, Pakistan** — but my focus has never been just code. I find broken systems and build around them: civic processes, education policy, and the gap between what governments promise and what citizens can actually access. I'm building toward **Erasmus Mundus PIONEER (eGovernance)** to take this from side projects to a career.
 
 ---
 
-## 🚀 What I've Built
+## 🚀 What I'm Building
 
-| Project | What It Does | Live |
+| Project | What It Does | Status |
 |---|---|---|
-| 🌍 **EduBridge** | Complete guide for Pakistani students to access global scholarships | [Visit →](https://noorulhuda-swe.github.io/edubridge) |
-| 💼 **StartSmart PK** | Business starter modules — freelancing, AI, e-commerce for Pakistani students | [Visit →](https://noorulhuda-swe.github.io/startsmart-pk) |
-| 🤖 **ScholarIntell** | AI-powered scholarship recommendation system | [Repo →](https://github.com/noorulhuda-swe/ScholarIntell) |
-| 🎮 **Python Quiz Game** | Interactive Python quiz game built and deployed | [Repo →](https://github.com/noorulhuda-swe/python-quiz-game) |
+| 🏛️ **Citizen Connect AI** | Ask a plain question ("How do I renew my CNIC?") and get the exact process, documents, office, fees, and timeline | 🔨 In progress |
+| 🗣️ **SpeakUp English** | AI-powered English practice — vocabulary, grammar, mock interviews, and live scenario roleplay (job interviews, client calls) | [Visit →](https://speakup-english-omega.vercel.app/) |
+| 🌐 **EduBridge** | Complete guide for Pakistani students to access global scholarships | [Visit →](https://noorulhuda-swe.github.io/edubridge/) |
+| 💼 **StartSmart PK** | Business starter modules — freelancing, AI, e-commerce for Pakistani students | [Visit →](https://noorulhuda-swe.github.io/startsmart-pk/) |
+| 🎓 **ScholarIntell** | AI-powered scholarship recommendation system | [Repo →](https://github.com/noorulhuda-swe/ScholarIntell) |
 
 ---
 
 ## ✍️ I Also Write
 
-I write on **Medium** about the Pakistani student experience — education systems, English barriers, scholarship access and building from nothing.
+I write on **Medium** about the systems that shape Pakistani students' and citizens' lives — education policy, scholarship access, and government process design.
 
-- 📄 [I Spent My Entire Summer Building Something Nobody Wanted](https://medium.com/@noorullhuda67/i-spent-my-entire-summer-building-something-nobody-wanted-3272af528874)
-- 📄 [Nobody Told Us](https://medium.com/@noorullhuda67/nobody-told-us-a264430efe11)
-- 📄 [We Don't Have an English Problem. We Have a Mockery Problem.](https://medium.com/@noorullhuda67)
+**Current series — "The Sequencing Problem":** why government policies fail not from bad intentions but bad ordering. Covers Pakistan's Single National Curriculum and IMF-linked fuel price impacts, with more parts in progress.
+
+- 📄 [I Spent My Entire Summer Building Something Nobody Wanted](#)
+- 📄 [Nobody Told Us](#)
+- 📄 [We Don't Have an English Problem. We Have a Mockery Problem.](#)
 
 ---
 
 ## 🌱 About Me
 
-- 🎓 Final year **Software Engineering** student — Bahawalpur, Pakistan
-- 🗣️ **IELTS certified** — ran free English communication classes for a full semester
-- 🌍 Applying for **Erasmus Mundus & DAAD** — destination: Germany 🇩🇪
-- 💡 Real strengths: **communication, leadership, problem-solving, building from scratch**
-- ✍️ Writing about what Pakistani students deserve to know but nobody tells them
-- 🔨 Building tools that close the gap between Pakistani students and global opportunity
+- 🎓 **Software Engineering** graduate — The Islamia University of Bahawalpur; originally from Sahiwal, Pakistan
+- 🏛️ Building **Citizen Connect AI**, a civic-tech platform that closes the gap between citizens and government processes
+- 🌍 Building toward **Erasmus Mundus PIONEER** (eGovernance, KU Leuven) — destination: Belgium/Germany 🇩🇪
+- 💡 Real strengths: **systems thinking, policy analysis, communication, building from scratch**
+- ✍️ Writing "The Sequencing Problem" — a series on why government policy design fails
+- 🎯 Long-term goal: founding an organization focused on economic empowerment and civic access in Pakistan
 
 ---
 
 ## 🛠️ Tools I Work With
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+`Python` `Django` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `SQL` `Groq API / LLaMA` `Canva` `Framer` `GitHub`
 
 ---
 
 ## 📊 My Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=noorulhuda-swe&color=ff6b2b&style=flat&label=Profile+Views)
-![Repos](https://img.shields.io/badge/Public%20Repos-6-ff6b2b?style=flat&logo=github&logoColor=white)
-![Articles](https://img.shields.io/badge/Medium%20Articles-3-12100E?style=flat&logo=medium&logoColor=white)
-![IELTS](https://img.shields.io/badge/IELTS-Certified-00897B?style=flat)
-![Erasmus](https://img.shields.io/badge/Erasmus-Applicant%202025-003087?style=flat)
+`5 Shipped Projects` `Medium Series: The Sequencing Problem` `Erasmus Mundus PIONEER — Target 2027`
 
 ---
 
-## 🌍 Live Projects
+## 🌐 Live Projects
 
-<a href="https://noorulhuda-swe.github.io/edubridge">
-  <img src="https://img.shields.io/badge/🌍%20EduBridge-Live%20Website-1a4a3a?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://noorulhuda-swe.github.io/startsmart-pk">
-  <img src="https://img.shields.io/badge/💼%20StartSmart%20PK-Live%20Website-ff6b2b?style=for-the-badge" />
-</a>
+**[EduBridge](https://noorulhuda-swe.github.io/edubridge/)** — Live · **[StartSmart PK](https://noorulhuda-swe.github.io/startsmart-pk/)** — Live · **[SpeakUp English](https://speakup-english-omega.vercel.app/)** — Live · **Citizen Connect AI** — Coming soon
 
 ---
 
-## 📬 Let's Connect
+## 📖 Let's Connect
 
-<a href="https://medium.com/@noorullhuda67">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/noorulhuda-swe">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://noorulhuda-swe.github.io/edubridge">
-  <img src="https://img.shields.io/badge/EduBridge-Visit%20Site-1a4a3a?style=flat" />
-</a>
-&nbsp;
-<a href="https://noorulhuda-swe.github.io/startsmart-pk">
-  <img src="https://img.shields.io/badge/StartSmart%20PK-Visit%20Site-ff6b2b?style=flat" />
-</a>
+[Medium](https://medium.com/@noorullhuda67) · [GitHub](https://github.com/noorulhuda-swe) · [EduBridge](https://noorulhuda-swe.github.io/edubridge/) · [StartSmart PK](https://noorulhuda-swe.github.io/startsmart-pk/) · [SpeakUp English](https://speakup-english-omega.vercel.app/)
 
----
-
-*Currently open to: writing collaborations, scholarship mentoring, and building tools that matter.* 🌍
+*Currently open to: civic-tech collaborations, writing partnerships, and scholarship mentoring.* 🌐
