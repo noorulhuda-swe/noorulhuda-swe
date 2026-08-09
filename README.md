@@ -43,13 +43,26 @@ I write on **Medium** about the systems that shape Pakistani students' and citiz
 
 ## 🛠️ Tools I Work With
 
-`Python` `Django` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `SQL` `Groq API / LLaMA` `Canva` `Framer` `GitHub`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API_/_LLaMA-F55036?style=for-the-badge&logo=meta&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 My Activity
 
-`5 Shipped Projects` `Medium Series: The Sequencing Problem` `Erasmus Mundus PIONEER — Target 2027`
+![Shipped Projects](https://img.shields.io/badge/Shipped_Projects-5-success?style=for-the-badge)
+![Medium Series](https://img.shields.io/badge/Medium_Series-The_Sequencing_Problem-black?style=for-the-badge&logo=medium&logoColor=white)
+![Erasmus](https://img.shields.io/badge/Erasmus_Mundus_PIONEER-Target_2027-003399?style=for-the-badge&logo=europeanunion&logoColor=white)
 
 ---
 
